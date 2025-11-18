@@ -1,2 +1,2 @@
 # shecab-prototype
-SheCab is a women-first ride service that connects female passengers with verified female drivers for safer, more comfortable travel. With real-time tracking, SOS alerts, and AI-based in-cab safety monitoring, SheCab empowers women to commute with confidence, anytime, anywhere
+SheCab is a women-centric ride service created to provide safe, reliable, and comfortable transportation for women. The platform connects female passengers with verified female drivers and integrates advanced safety tools such as real-time GPS tracking, instant SOS alerts, and AI-powered in-cab behavior monitoring. SheCab aims to improve women’s mobility, reduce safety risks, and generate meaningful employment opportunities for women in the transportation secto
